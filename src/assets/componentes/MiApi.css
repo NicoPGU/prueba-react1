@@ -1,0 +1,14 @@
+
+.ancho-imagen {
+    width: 10rem;
+    height: 10rem;
+    margin-left: 3rem;
+    margin-top: 1rem;
+  }
+  .card {
+    width: 18rem;
+  }
+.buscador {
+  width: 50rem;
+  height: 2.5rem;
+}
